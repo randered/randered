@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randered
 - 👀 I’m interested in Programming overall.
-- 🌱 I’m currently learning Java, but currently I'm on academy for .Net 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
