@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @randered
-- 👀 I’m interested in Programming overall.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Enthusiastic back-end developer. 
+Currently working with Java and Spring oriented projects. 
+Striving to learn Web3, Solidity, Blockchain and start working on smart contracts.
 
 <!---
 randered/randered is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
