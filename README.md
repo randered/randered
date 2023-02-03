@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @randered
+- 👋 Hi, I’m Vasil aka Randered
 - Enthusiastic back-end developer. 
 - Currently working with Java and Spring oriented projects. 
 - Striving to learn Web3, Solidity, Blockchain and start working on smart contracts.
